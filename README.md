@@ -9,7 +9,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd React_E-Commerce
+  cd ecommerce-web3
 ```
 
 Install dependencies
